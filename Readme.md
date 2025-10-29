@@ -4,7 +4,7 @@
 This project presents an end-to-end data analytics solution built around a Valorant gameplay dataset. The workflow covers every stage of the data lifecycle — from data cleaning and feature engineering to statistical analysis and cloud-based integration using Snowflake. The processed data is then visualized in Power BI, creating interactive dashboards that provide valuable insights into player performance, weapon usage, and match outcomes. This project demonstrates how modern data engineering and business intelligence tools can transform raw gaming data into actionable insights.
 
 ## Screenshot
-![Dashboard Overview](Images/ss%20-%204.png)
+![Dashboard Overview](main.png)
 ![Dashboard Overview](Images/ss%20-%201.png)
 ![Dashboard Overview](Images/ss%20-%202.png)
 ![Dashboard Overview](Images/ss%20-%203.png)
@@ -33,4 +33,5 @@ This project showcases how data-driven insights can be extracted from gaming dat
 By combining Python for data cleaning and feature engineering, Snowflake for scalable data storage, and Power BI for interactive visualization, the project demonstrates a complete end-to-end data analytics workflow.
 
 Through this pipeline, valuable insights into player performance, weapon efficiency, and match outcomes were uncovered — highlighting the power of integrating data engineering and business intelligence to transform raw game data into actionable insights.
+
 
